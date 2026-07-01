@@ -1,5 +1,0 @@
-Enterprise Policy Document
-
-This policy describes procedures for internal document review, compliance validation,
-and workflow approvals. The document must be reviewed by the operations team before
-final approval. Action items should be tracked and routed to the responsible department.
